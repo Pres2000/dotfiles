@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pjhogaboam@gmail.com
+	name = Preston Hogaboam
